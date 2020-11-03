@@ -1,0 +1,4 @@
+,0
+tier1,"{'email': 1000.0, 'social': 1000.0000000000001, 'display': 1000.0, 'paid_search': 999.9999999999999, 'referral': 1000.0, 'organic_search': 0.0, 'direct': 0.0}"
+tier2,"{'email': 2000.0, 'social': 2000.0, 'display': 2000.0, 'paid_search': 2000.0, 'referral': 2000.0, 'organic_search': 0.0, 'direct': 0.0}"
+tier3,"{'email': 3000.0, 'social': 3000.0, 'display': 3000.0, 'paid_search': 3000.0, 'referral': 3000.0, 'organic_search': 0.0, 'direct': 0.0}"
